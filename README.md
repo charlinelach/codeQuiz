@@ -17,7 +17,7 @@ To utilize this website/application, end users may access it via [Deploy link](h
 ## Installation Instructions
 N/A
 
-### Credits & Thank Yous
+## Credits & Thank Yous
 Shout out to the wonderful instructor(s) and TAs! Another thank you to fellow students and asking questions before they form in my head.
 
 # License Information
