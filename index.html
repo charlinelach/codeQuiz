@@ -12,12 +12,11 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 
     <!-- German language quiz -->
-    <title>German Quiz</title>
+    <title>Code Quiz</title>
 
 </head>
 
-<div id="timeLeft"></div>
-<input id="takeTime" type="button" onclick="reduceByTen()">
+<!-- <div id="timeLeft"></div> -->
 
 <body>
 
@@ -31,15 +30,44 @@
           <span class="navbar-text">
             Time:
           </span>
+          <div id="timeLeft"></div>
         </div>
+        <div class="collapse navbar-collapse" id="navbarText">
+            <span class="navbar-text">
+              Score:
+            </span>
+            <div id="scoreValue"></div>
+          </div>
     </nav>
-    
-    <!-- Time determination -->
-    <script type="text/javascript">
-        var timeRemaining = 100;
 
-        var 
-    </script>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 id="questionText">["question"]</h1>
+                <h3 id="instructions">INSTRUCTIONSHERE</h3>
+            </div>
+        </div>
+        <div class="row">
+            <button type="button" id="buttonA" class="btn btn-primary"></button>
+        </div>
+        <div class="row">
+            <button type="button" id="buttonB" class="btn btn-primary"></button>
+        </div>
+        <div class="row">
+            <button type="button" id="buttonC" class="btn btn-primary"></button>
+        </div>
+        <div class="row">
+            <button type="button" id="buttonD" class="btn btn-primary"></button>
+        </div>
+        <div class="row">
+        </div>
+        <div class="row">
+            <button type="button" id="gameStart" class="btn btn-primary">Click here to start the game!</button>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
 
 </body>
 </html>
