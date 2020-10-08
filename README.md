@@ -7,18 +7,24 @@ Deployed at: https://charlinelach.github.io/codeQuiz/
 <br>
 Repository: https://github.com/charlinelach/codeQuiz
 
+## Technologies
+HTML, CSS, JavaScript
+
 # Development:
 
 ## Usage Instructions
 To utilize this website/application, end users may access it via [Deploy link](https://charlinelach.github.io/codeQuiz/). From this website, the user can perform clicks to take the quiz.
 
 ![Screenshot of the Quiz](codeQuiz_pic.png)
+<br>
+![Screenshot of Wrong Answer](screenshotWrong.jpg)
 
 ## Installation Instructions
 N/A
 
-### Credits & Thank Yous
+## Credits & Thank Yous
 Shout out to the wonderful instructor(s) and TAs! Another thank you to fellow students and asking questions before they form in my head.
 
 # License Information
-N/A
+MIT License <br>
+Copyright (c) 2020
