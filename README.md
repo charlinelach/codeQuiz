@@ -26,5 +26,9 @@ N/A
 Shout out to the wonderful instructor(s) and TAs! Another thank you to fellow students and asking questions before they form in my head.
 
 # License Information
+<<<<<<< HEAD
 MIT License <br>
 Copyright (c) 2020
+=======
+N/A
+>>>>>>> 464da4e73f8413cc900f05016dce8f1a18d8a835
